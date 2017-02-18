@@ -35,7 +35,9 @@ public class PlayGround {
 		ItemMaker.newSword("potion").setCreativeTab(CreativeTabs.tabCombat);
 		ItemMaker.newSword("Waffle");
 		ItemMaker.newSword("drew");
-
+		ItemMaker.newSword("BB");
+		ItemMaker.newSword("big sword");
+		ItemMaker.newSword("bowsword");
 	}
 
 }
